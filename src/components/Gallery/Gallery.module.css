@@ -1,0 +1,6 @@
+.Gallery {}
+.container img {
+    max-height: 150px;
+    flex-wrap: wrap;
+    margin-right: 5px;
+}

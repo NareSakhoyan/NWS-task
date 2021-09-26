@@ -14,12 +14,19 @@
 }
 
 .App-header {
+  margin-left: 20vh;
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
+}
+
+.vl {
+  border-left: 6px solid green;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 500px;
 }
 
 .App-link {

@@ -10,14 +10,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b751d035-4e83-420b-8dd2-0c0238302c90" name="Default Changelist" comment="" />
+    <list default="true" id="b751d035-4e83-420b-8dd2-0c0238302c90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/Counter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterAPI.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/counter/counterSlice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -29,13 +56,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632580341787</updated>
       <workItem from="1632580342860" duration="1044000" />
+      <workItem from="1632583233066" duration="18556000" />
     </task>
     <servers />
   </component>
@@ -62,15 +111,48 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2725" y="560" width="300" height="226" key="#ESLint" timestamp="1632585467819">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state x="2725" y="560" width="300" height="226" key="#ESLint/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632585467819" />
     <state x="2612" y="417" width="526" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1632580935098">
       <screen x="1920" y="116" width="1920" height="1080" />
     </state>
     <state x="2612" y="417" width="526" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632580935098" />
-    <state x="2543" y="375" width="672" height="678" key="search.everywhere.popup" timestamp="1632580648528">
+    <state x="2662" y="426" width="426" height="493" key="FileChooserDialogImpl" timestamp="1632583729485">
       <screen x="1920" y="116" width="1920" height="1080" />
     </state>
-    <state x="2543" y="375" width="672" height="678" key="search.everywhere.popup/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632580648528" />
+    <state x="2662" y="426" width="426" height="493" key="FileChooserDialogImpl/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632583729485" />
+    <state width="1895" height="273" key="GridCell.Tab.0.bottom" timestamp="1632583364391">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="273" key="GridCell.Tab.0.bottom/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632583364391" />
+    <state width="1895" height="273" key="GridCell.Tab.0.center" timestamp="1632583364391">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="273" key="GridCell.Tab.0.center/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632583364391" />
+    <state width="1895" height="273" key="GridCell.Tab.0.left" timestamp="1632583364391">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="273" key="GridCell.Tab.0.left/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632583364391" />
+    <state width="1895" height="273" key="GridCell.Tab.0.right" timestamp="1632583364391">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state width="1895" height="273" key="GridCell.Tab.0.right/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632583364391" />
+    <state x="2532" y="286" width="685" height="774" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1632633285813">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state x="2532" y="286" width="685" height="774" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632633285813" />
+    <state x="2571" y="257" width="618" height="825" key="find.popup" timestamp="1632641299600">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state x="2571" y="257" width="618" height="825" key="find.popup/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632641299600" />
+    <state x="2543" y="375" width="672" height="678" key="search.everywhere.popup" timestamp="1632637565312">
+      <screen x="1920" y="116" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="375" width="672" height="678" key="search.everywhere.popup/1920.116.1920.1080/54.143.1866.937@1920.116.1920.1080" timestamp="1632637565312" />
   </component>
 </project>

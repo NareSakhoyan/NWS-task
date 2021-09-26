@@ -1,0 +1,17 @@
+.Sidebar {}
+.categories {
+    list-style-type: none;
+    text-align: right;
+}
+
+ul li:hover {
+    cursor: pointer;
+}
+
+.active {
+    color: #027f65;
+}
+
+.passive {
+    color: #68867c;
+}
